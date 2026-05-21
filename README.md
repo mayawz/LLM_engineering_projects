@@ -1,2 +1,2 @@
-# paper_replication
-keep up with the literature by coding up what the paper covers
+# LLM_engineering_projects
+RAG, LoRA, QLoRA, and AI Agents
